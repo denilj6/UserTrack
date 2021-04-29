@@ -1,0 +1,12 @@
+{
+  "name": "UserTrack",
+  "displayName": "UserTrack",
+  "expo": {
+    "name": "UserTrack",
+    "slug": "UserTrack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
